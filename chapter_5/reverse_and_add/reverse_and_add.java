@@ -1,7 +1,7 @@
 /* @BEGIN_OF_SOURCE_CODE */
 import java.util.*;
 
-public class Main {
+class Main {
 
     public static void main(String[] args)
     {
