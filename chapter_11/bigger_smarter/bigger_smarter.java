@@ -59,6 +59,7 @@ class Main
 
     //give LIS of decreasing elephant IQ.  if list is already sorted by increasing weight this
     //will give the LIS of increasing weight with decreasing IQs
+	//https://www.youtube.com/watch?v=E6us4nmXTHs
     static Elephant[] LIS(Elephant[] elephants)
     {
         int[] length = new int[elephants.length];
